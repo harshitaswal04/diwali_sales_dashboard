@@ -1,5 +1,9 @@
 # 🪔 Diwali Sales Dashboard
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
+
 A Python + MySQL project for managing, analyzing, and visualizing Diwali sales data. The project provides a full CRUD console application backed by MySQL, along with Seaborn-powered chart visualizations for sales insights.
 
 ## 📁 Project Files
